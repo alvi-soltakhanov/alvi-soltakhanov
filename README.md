@@ -39,7 +39,7 @@
 
 ## Контакты
 
-[![Email](https://img.icons8.com/color/48/000000/mail.png)](mailto:silsedane@mail.ru)
+[![Email](https://img.icons8.com/fluency/48/000000/new-post.png)](mailto:silsedane@mail.ru)
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/silsedane)
 
 Не стесняйтесь связаться со мной, если у вас есть какие-либо вопросы, предложения или если вы хотите сотрудничать. Я всегда открыт для новых проектов и интересных задач.
