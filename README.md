@@ -1,55 +1,21 @@
-# Привет, меня зовут Альви
+## Я фронтэнд разработчик
+## Мои навыки:
 
-Я - опытный веб-разработчик с уклоном во фронтенд. Моя страсть к кодированию началась в юности, и с тех пор я стал преданным сторонником создания интересных и полезных веб-приложений.
+- **Языки программирования**(разметки, стилей):
+  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript) ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=Html5) ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=CSS3&logoColor=blue) ![SCSS](https://img.shields.io/badge/-SCSS-333?style=for-the-badge&logo=SASS) ![JSS](https://img.shields.io/badge/-JSS-333?style=for-the-badge&logo=JSS)
 
-## Мой опыт
-
-У меня 2 года опыта в веб-разработке и я работал над разнообразными проектами:
-
-- Разработка интерактивных веб-сайтов с использованием современных фреймворков, таких как React и Wasaby.
-- Оптимизация производительности веб-приложений для достижения максимальной скорости загрузки и отзывчивости.
-- Интеграция с различными API и сторонними сервисами для создания полезных функций.
-- Работа над мобильной адаптацией и отзывчивым дизайном для обеспечения отличного пользовательского опыта.
-- 
-## I'm a frontend developer
-
-### Languages and Tools
-
-![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-333?style=for-the-badge&logo=Redux&logoColor=blueviolet)
-![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=Html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=CSS3&logoColor=blue)
-![SCSS](https://img.shields.io/badge/-SCSS-333?style=for-the-badge&logo=SASS)
-![JSS](https://img.shields.io/badge/-JSS-333?style=for-the-badge&logo=JSS)
-![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=MongoDB)
-
-### Me
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sovarim&count_private=true&show_icons=true&theme=dark)
-
-## Мои навыки
-
-- **Языки программирования**:
-  - *TypeScript*
-  - *HTML*
-  - *CSS*
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript)
-  - *JavaScript* 
-
-- **Фреймворки и библиотеки**: 
-  - *React*
-  - *Redux*
-  - *Mobx*
+- **Фреймворки и библиотеки**:
+  
+  ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React)  ![Redux](https://img.shields.io/badge/-Redux-333?style=for-the-badge&logo=Redux) ![Mobx](https://img.shields.io/badge/-Mobx-333?style=for-the-badge&logo=Mobx) 
 
 - **Инструменты**: 
-  - *Visual Studio Code*
-  - *Git*
-  - *Webpack*
+
+  ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333?style=for-the-badge&logo=VisualStudioCode) ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git) ![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=Webpack)
 
 - **Другие технологии**: 
-  - *RESTful API*
+
+  ![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=Express) ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=MongoDB) ![Node](https://img.shields.io/badge/-Node-333?style=for-the-badge&logo=Node)
 
 ## Мои проекты
 
@@ -58,13 +24,10 @@
 - [Большая перемена - игра](https://xn--80aabraa2blkdnn4h9b6b.xn--80asehdb/): Третий проект связан c конкурсом «Большая перемена» – часть национального проекта «Образование», который проходит для учеников 6–7-х классов общеобразовательных школ и студентов колледжей.
 
 ## Контакты
-
-[![Email](https://img.icons8.com/fluency/48/000000/new-post.png)](mailto:silsedane@mail.ru)
+[![Email](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=Email)](mailto:silsedane@mail.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=Telegram)](https://t.me/silsedane)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-333?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/abdul-gafur-taramov-43909021b/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-333?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/alvi-soltakhanov-13638823a/)
 
-
-Не стесняйтесь связаться со мной, если у вас есть какие-либо вопросы, предложения или если вы хотите сотрудничать. Я всегда открыт для новых проектов и интересных задач.
 
 
 
