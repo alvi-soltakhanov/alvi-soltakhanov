@@ -10,6 +10,24 @@
 - Оптимизация производительности веб-приложений для достижения максимальной скорости загрузки и отзывчивости.
 - Интеграция с различными API и сторонними сервисами для создания полезных функций.
 - Работа над мобильной адаптацией и отзывчивым дизайном для обеспечения отличного пользовательского опыта.
+- 
+## I'm a frontend developer
+
+### Languages and Tools
+
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-333?style=for-the-badge&logo=Redux&logoColor=blueviolet)
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=Html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=CSS3&logoColor=blue)
+![SCSS](https://img.shields.io/badge/-SCSS-333?style=for-the-badge&logo=SASS)
+![JSS](https://img.shields.io/badge/-JSS-333?style=for-the-badge&logo=JSS)
+![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=MongoDB)
+
+### Me
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sovarim&count_private=true&show_icons=true&theme=dark)
 
 ## Мои навыки
 
@@ -17,7 +35,8 @@
   - *TypeScript*
   - *HTML*
   - *CSS*
-  - *JavaScript*
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript)
+  - *JavaScript* 
 
 - **Фреймворки и библиотеки**: 
   - *React*
@@ -41,7 +60,9 @@
 ## Контакты
 
 [![Email](https://img.icons8.com/fluency/48/000000/new-post.png)](mailto:silsedane@mail.ru)
-[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/silsedane)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=Telegram)](https://t.me/silsedane)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-333?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/abdul-gafur-taramov-43909021b/)
+
 
 Не стесняйтесь связаться со мной, если у вас есть какие-либо вопросы, предложения или если вы хотите сотрудничать. Я всегда открыт для новых проектов и интересных задач.
 
